@@ -1,0 +1,11 @@
+Before running the program, a few dependencies are required.
+
+1. Install file python-3.9.0-amd64.exe (At the end, select the checkbox "Add to PATH")
+	This file helps interpret the application to your windows machine
+
+2. Install in-app dependencies. Open command prompt and install using the following:
+	a. pip install tkinter
+	b. pip install pandas
+	c. pip install math
+
+***Installing the above is required for efficient performance within the application.
